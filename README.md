@@ -47,10 +47,7 @@ Currency-Converter/
 
 📸 Preview
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7083f081-6740-47c0-b38e-635502f570fb" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ba38b37b-d8b2-43a1-8152-7d04cb0e1c5e" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/dd26a5a5-019e-4ad5-9817-9b3a8332b601" />
-
+<img width="1218" height="1576" alt="image" src="https://github.com/user-attachments/assets/924d7d9a-24a5-4990-9ad8-73e2cd98ca39" />
 
 
 ⸻
